@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_with_text.svg"
+   inkscape:export-filename="/home/fracpete/documents/python-bites/logos/logo_with_text.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="462.71287"
+     inkscape:cy="865.96451"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42086661;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1099"
+       width="205.70125"
+       height="101.25394"
+       x="15.89289"
+       y="36.833717" />
+    <g
+       id="g1110"
+       transform="translate(-18.272861,6.0205016)">
+      <rect
+         y="43"
+         x="70.681549"
+         height="20.410715"
+         width="44.223221"
+         id="rect815"
+         style="opacity:1;fill:#7a8ff3;fill-opacity:1;stroke:none;stroke-width:1.08370829;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="-114.90477"
+         x="43"
+         height="20.410715"
+         width="58.20834"
+         id="rect815-5"
+         style="opacity:1;fill:#7a8ff3;fill-opacity:1;stroke:none;stroke-width:1.24331117;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="80.79763"
+         x="56.696434"
+         height="20.410715"
+         width="58.20834"
+         id="rect815-9"
+         style="opacity:1;fill:#7a8ff3;fill-opacity:1;stroke:none;stroke-width:1.24331117;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="-66.901794"
+         x="80.79763"
+         height="10.205358"
+         width="35.907742"
+         id="rect815-5-3"
+         style="opacity:1;fill:#7a8ff3;fill-opacity:1;stroke:none;stroke-width:0.69050419;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="109.67501"
+         x="56.696438"
+         height="10.205358"
+         width="18.520836"
+         id="rect815-5-3-5"
+         style="opacity:1;fill:#7a8ff3;fill-opacity:1;stroke:none;stroke-width:0.49590966;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="2.505652"
+         cy="49.007282"
+         cx="101.99673"
+         id="path899"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56500006;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="2.1492367"
+         cy="49.007282"
+         cx="101.99673"
+         id="path899-8"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#fafafa;stroke-width:1.34238732;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="0.97815776"
+         cy="48.840244"
+         cx="100.76061"
+         id="path899-0"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.61094558;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1097"
+         d="m 70.823287,56.966221 h 15.355284 c 0,0 2.337031,0.17881 2.929314,-2.031622"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.09836674px;line-height:1.25;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35245916px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.90118"
+       y="69.493332"
+       id="text825"><tspan
+         sodipodi:role="line"
+         x="107.90118"
+         y="69.493332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.31695175px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.35245916px"
+         id="tspan827">Python</tspan><tspan
+         sodipodi:role="line"
+         x="107.90118"
+         y="102.38952"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.31695175px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.35245916px"
+         id="tspan833">Bites</tspan></text>
+  </g>
+</svg>
