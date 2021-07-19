@@ -15,8 +15,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/fracpete/development/projects/fracpete/python-bites/docs/img/logo.png"
+   sodipodi:docname="logo-transparent.svg"
+   inkscape:export-filename="/home/fracpete/documents/python-bites/logos/logo-transparent.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="199.97532"
-     inkscape:cy="805.35535"
+     inkscape:cx="111.33443"
+     inkscape:cy="803.33504"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,14 +57,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29820332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.29820332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1099"
        width="103.26971"
        height="101.25394"
        x="42.351223"
-       y="36.833717"
-       inkscape:export-xdpi="144"
-       inkscape:export-ydpi="144" />
+       y="36.833717" />
     <g
        id="g841">
       <rect
